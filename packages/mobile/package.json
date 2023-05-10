@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@instabug-react-native-monorepo/shared": "*",
+    "instabug-reactnative": "^11.10.0",
     "react": "18.2.0",
     "react-native": "0.71.8"
   },
